@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;900&display=swap');
+
+ *{
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+
+ .container{
+    width:90vw;
+    height:72px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    
+    margin: auto;
+ }
+
+ ul{
+    list-style-type: none;
+    display: flex;
+ }
+
+ .menu-items a{
+    text-decoration: none;
+    color:black;
+    margin-left: 15px;
+    font-weight:510;
+
+ }
+
+
+ .button button{
+
+    background-color: #D01C28;
+    color:white;
+    border:none;
+    padding: 5px 16px;
+
+ }
+
+ .hero-container{
+    width:80vw;
+    justify-content: space-between;
+    margin: auto;
+    display: flex;
+    margin-top: 30px;
+ }
+
+
+ h1{
+    font-size: 108px;
+    line-height: 85px;
+    font-weight:900;
+    margin-bottom: 30px;
+ }
+
+ .hero-container p,.buttons,.logo{
+    margin-bottom: 20px;
+ }
+
+ .right-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .para {
+    width: 60%;
+ }
+
+ .right-item  img{
+    width:550x;
+    height: 430px;
+  
+ }
+
+ .buttons button{
+    margin-right: 20px;
+    padding:7px 24px;
+    border: none;
+ }
+
+
+ .left-item img{
+    margin-right: 10px;
+ }
+
+ .button-1{
+    background-color: #D01C28;
+    border:none;
+    color:white;
+ }
+
+ 
+
+
+
+
+
+
+
+
